@@ -1,0 +1,7 @@
+name: delete_interested_users
+dependencies:
+  - python=3.6.12
+  - requests
+  - xlrd=1.2.0
+  - xlwt=1.3.0
+  - xlutils
